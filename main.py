@@ -17,7 +17,7 @@
 import webapp2
 
 form="""
-<form>
+<form action="http://www.google.com/search">
 	<input name="q">
 	<input type="submit">
 </form>
